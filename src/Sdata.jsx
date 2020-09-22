@@ -32,6 +32,13 @@ const Sdata = [
  title:"A Netflix Orignal series", 
    snam:"Black Mirror",
    link:"https://www.netflix.com/pk/title/70264888",
+    },
+
+    {
+        imgsrc:"https://images-na.ssl-images-amazon.com/images/I/71zyeXiVIqL._AC_SL1500_.jpg",
+ title:"A Netflix Orignal series", 
+   snam:"Peaky Blinders",
+   link:"https://www.netflix.com/pk/title/80002479",
     }
 
 

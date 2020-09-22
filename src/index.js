@@ -10,7 +10,7 @@ import "./index.css";
 ReactDOM.render(
   <>
 
-<h1 className="heading_style ">List Of top five Netflix series </h1>
+<h1 className="heading_style ">List Of top six Netflix series </h1>
 
     {Sdat.map((value) => {
       return (
