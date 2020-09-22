@@ -13,7 +13,7 @@ const Sdata = [
     },
 
     {
-        imgsrc:"https://images-na.ssl-images-amazon.com/images/I/51sPddF3JoL._AC_SL1280_.jpg",
+        imgsrc:"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRwUlzizz3RjK6hTg9cfTWoMU87Zsu2VVLExw&usqp=CAU",
  title:"A Netflix Orignal series", 
    snam:"The Crown",
    link:"https://www.netflix.com/pk/title/80025678", 
